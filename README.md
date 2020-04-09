@@ -1,2 +1,2 @@
 # Python-Solution-Fingerprint
-Get Data Form Solution Fingerprint 
+Get Data From Solution Fingerprint 
